@@ -218,7 +218,7 @@
   "dependencies": {
     "@stellar/stellar-base": "^13.0.1",
     "axios": "^1.8.4",
-    "bignumber.js": "^9.1.2",
+    "bignumber.js": "^9.2.1",
     "eventsource": "^2.0.2",
     "feaxios": "^0.0.23",
     "randombytes": "^2.1.0",
